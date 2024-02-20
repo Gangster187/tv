@@ -3,6 +3,7 @@ import Telewizory.Samsung.UE43dfgwgw;
 import Telewizory.Sony.RR55adfgd;
 
 import java.util.Scanner;
+//Symulacja działania telewizora
 
 public class Main {
 
